@@ -9,7 +9,6 @@ import android.view.View.OnClickListener;
 
 import java.util.ArrayList;
 
-import com.example.x220.pager.R;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.widget.ImageButton;
